@@ -28,4 +28,16 @@ The edges cases such as:
 - If any wrong move is players immidiately error message is printed.
 
 
+SCREEN SHOT:
+
+INITIAL POSITION:
+
 ![image](https://user-images.githubusercontent.com/59511017/189490795-92938703-b5d4-45b4-8962-c470f5e2c50f.png)
+
+INVALID POSITION:
+
+![image](https://user-images.githubusercontent.com/59511017/189490860-033af447-7ace-4f7c-aec6-6e5cc0b90603.png)
+
+MAKE A VALID MOVE AND PRINT NEW BOARD STATUS:
+
+![image](https://user-images.githubusercontent.com/59511017/189490958-0c87608c-0a16-40b6-957a-12519c070725.png)
