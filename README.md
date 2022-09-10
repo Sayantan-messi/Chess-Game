@@ -27,3 +27,5 @@ The edges cases such as:
 
 - If any wrong move is players immidiately error message is printed.
 
+
+![image](https://user-images.githubusercontent.com/59511017/189490795-92938703-b5d4-45b4-8962-c470f5e2c50f.png)
